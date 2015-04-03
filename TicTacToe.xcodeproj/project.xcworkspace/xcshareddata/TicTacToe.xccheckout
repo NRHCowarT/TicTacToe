@@ -10,31 +10,31 @@
 	<string>TicTacToe</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>C11785D464FBFE7DC79E7F85E66ECC5AFDD0F9B7</key>
-		<string>https://github.com/NRHCowarT/ios-apps.git</string>
+		<key>F44DA7AF6A2DA6117B507836E47DCC3C3F0B763A</key>
+		<string>https://github.com/NRHCowarT/TicTacToe.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>TicTacToe/TicTacToe.xcodeproj</string>
+	<string>TicTacToe.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>C11785D464FBFE7DC79E7F85E66ECC5AFDD0F9B7</key>
-		<string>../../..</string>
+		<key>F44DA7AF6A2DA6117B507836E47DCC3C3F0B763A</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/NRHCowarT/ios-apps.git</string>
+	<string>https://github.com/NRHCowarT/TicTacToe.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>C11785D464FBFE7DC79E7F85E66ECC5AFDD0F9B7</string>
+	<string>F44DA7AF6A2DA6117B507836E47DCC3C3F0B763A</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>C11785D464FBFE7DC79E7F85E66ECC5AFDD0F9B7</string>
+			<string>F44DA7AF6A2DA6117B507836E47DCC3C3F0B763A</string>
 			<key>IDESourceControlWCCName</key>
-			<string>ios-apps</string>
+			<string>TicTacToe</string>
 		</dict>
 	</array>
 </dict>

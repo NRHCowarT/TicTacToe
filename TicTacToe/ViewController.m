@@ -112,7 +112,7 @@
             
             
             
-            scoreLabel1 = [[UILabel alloc] initWithFrame:CGRectMake(0, 20, SCREEN_WIDTH, 50)];
+            scoreLabel1 = [[UILabel alloc] initWithFrame:CGRectMake(10, 20, SCREEN_WIDTH-20, 50)];
             
             scoreLabel1.text = [NSString stringWithFormat:@"Player 1: %d",player1Score];
             scoreLabel1.textAlignment = NSTextAlignmentCenter;
@@ -121,7 +121,7 @@
             
             
           
-            scoreLabel2 = [[UILabel alloc] initWithFrame:CGRectMake(0, 70, SCREEN_WIDTH, 50)];
+            scoreLabel2 = [[UILabel alloc] initWithFrame:CGRectMake(10, 70, SCREEN_WIDTH-20, 50)];
             
             scoreLabel2.text = [NSString stringWithFormat:@"Player 2: %d",player2Score];
             scoreLabel2.textAlignment = NSTextAlignmentCenter;
@@ -131,7 +131,7 @@
         }
     }
     
-    UIButton * clearScoreButton = [[UIButton alloc] initWithFrame:CGRectMake(0, SCREEN_HEIGHT-70, SCREEN_WIDTH, 50)];
+    UIButton * clearScoreButton = [[UIButton alloc] initWithFrame:CGRectMake(10, SCREEN_HEIGHT-70, SCREEN_WIDTH-20, 50)];
     //            clearScoreButton.titleLabel.text = @"Clear Score";
     //            clearScoreButton.titleLabel.textColor = [UIColor blackColor];
     
@@ -146,7 +146,7 @@
     NSLog(@"subview count %@",self.view.subviews);
 
 
-UIButton * clearBoardButton = [[UIButton alloc] initWithFrame:CGRectMake(0, SCREEN_HEIGHT-140, SCREEN_WIDTH, 50)];
+UIButton * clearBoardButton = [[UIButton alloc] initWithFrame:CGRectMake(10, SCREEN_HEIGHT-125, SCREEN_WIDTH-20, 50)];
 //            clearScoreButton.titleLabel.text = @"Clear Score";
 //            clearScoreButton.titleLabel.textColor = [UIColor blackColor];
 
